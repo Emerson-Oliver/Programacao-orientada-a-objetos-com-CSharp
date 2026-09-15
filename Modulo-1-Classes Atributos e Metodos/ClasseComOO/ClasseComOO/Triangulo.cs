@@ -1,4 +1,5 @@
 ﻿namespace ClasseComOO;
+
 internal class Triangulo
 {
     public double A;
